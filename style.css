@@ -1,0 +1,218 @@
+body{
+	background: linear-gradient(to bottom right, White, #bcbdc4);
+	height: 4000px;
+
+}
+
+
+.headerx{
+	position: absolute;
+	width: 100%;
+	height: 100px;
+	top: o;
+	left: o;
+	color: white;
+	z-index: 7;
+	font-family: verdana;
+	-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+}
+
+.header{
+	position: absolute;
+	width: 100%;
+	height: 100px;
+	background: #3b5998;
+	top: o;
+	left: 0;
+	color: white;
+	z-index: 7;
+	font-family: verdana;
+}
+
+#fb_logo{
+	color: white;
+	font-size: 40px;
+	line-height: 20px;
+	font-family: verdana;
+	position: relative;
+	font-weight: bold;
+	left: 160px;
+	top: 35px;
+}
+
+#form1{
+	left: 750px;
+	top: 15px;
+	height: 60px;
+	width: 180px;
+}
+
+#form2{
+	left: 945px;
+	top: 15px;
+	height: 60px;
+	width: 200px;
+}
+
+.submit1{
+	left: 1140px;
+	top: 39px;
+	background: #3b5998;
+	color: white;
+	position: absolute;
+	z-index: 20;
+	height: 22px;
+	width: 50px;
+	cursour: pointer;
+}
+
+.bodyx{
+	position: absolute;
+	left: 0;
+	top: 100px;
+	width: 100%;
+	height: 645px;
+}
+
+#intro1{
+	top: 40px;
+	left: 100px;
+	font-family: verdana;
+	font-size: 30px;
+	color: black;
+	height: 75px;
+	width: 550px;
+}
+
+#intro2{
+	top: 40px;
+	left: 750px;
+	font-family: verdana;
+	font-size: 40px;
+	font-weight: bold;
+	color: black;
+	width: 500px;
+	height: 60px;
+}
+
+#img2{
+	top: 130px;
+	left: 100px;
+	height: 250px;
+	width: 550px;
+}
+
+#intro3{
+	top: 100px;
+	left: 750px;
+	font-family: verdana;
+	font-size: 20px;
+	color: black;
+	height: 50px;
+	width: 300px;
+}
+
+#form3{
+	top: 150px;
+	left: 750px;
+	font-family: verdana;
+	font-size: 20px;
+	color: #142170;
+	width: 450px;
+	height: 495px;
+
+}
+
+#namebox{
+	margin-bottom: 10px;
+	width: 190px;
+	height: 25px;
+	border-radius: 5px/10px;
+	background: white;
+	padding: 10px;
+	font-size: 20px;
+}
+
+#mailbox{
+	margin-bottom: 10px;
+	width: 410px;
+	height: 25px;
+	border-radius: 10px/10px;
+	background: white;
+	padding: 10px;
+	font-size: 20px;
+}
+
+#intro4{
+	top: 380px;
+	left: 750px;
+	font-family: verdana;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	height: 50px;
+	width: 300px;
+}
+
+#bday{
+	top: 405px;
+	left: 750px;
+	font-family: verdana;
+	font-size: 20px;
+	color: #142170;
+	width: 450px;
+	height: 495px;
+}
+
+#intro5{
+	top: 405px;
+	left: 960px;
+	font-family: verdana;
+	font-size: 15px;
+	color: black;
+	height: 50px;
+	width: 230px;
+}
+
+#gender{
+	top: 440px;
+	left: 750px;
+	font-family: verdana;
+	font-size: 20px;
+	color: black;
+	width: 450px;
+	height: 495px;
+}
+
+#intro6{
+	top: 480px;
+	left: 750px;
+	font-family: verdana;
+	font-size: 15px;
+	color: black;
+	height: 50px;
+	width: 500px;
+}
+
+.submit2{
+	top: 565px;
+	left: 750px;
+	background: green;
+	color: white;
+	position: absolute;
+	z-index: 20;
+	height: 30px;
+	width: 150px;
+	cursor: pointer;
+	outline: none;
+}
+
+#intro7{
+	top: 610px;
+	left: 750px;
+	font-family: verdana;
+	font-size: 15px;
+	color: black;
+	height: 50px;
+	width: 500px;
+}
